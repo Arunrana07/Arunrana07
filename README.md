@@ -67,7 +67,7 @@ Building modern, responsive and user-focused web applications.
 
 ## 🚀 Featured Projects
 
-### 📚 TestLifter
+### 📚 [TestLifter](https://www.testlifter.com/)
 
 A competitive exam preparation platform designed for **SSC, Banking and Railway exams**.
 
@@ -81,6 +81,13 @@ A competitive exam preparation platform designed for **SSC, Banking and Railway 
 **Tech:** React.js • Node.js • Express.js • MongoDB
 
 ---
+### 📰 [Xpress](https://arunrana07.github.io/Xpress/)
+
+A React-based news application that provides users with the latest news through API integration.
+
+**Tech:** React.js • JavaScript • REST API
+
+---
 
 ### 🌱 FarmCare
 
@@ -90,13 +97,6 @@ A web application focused on helping farmers access useful agricultural informat
 
 ---
 
-### 📰 Xpress
-
-A React-based news application that provides users with the latest news through API integration.
-
-**Tech:** React.js • JavaScript • REST API
-
----
 
 ### 🤖 Gemini Clone
 
