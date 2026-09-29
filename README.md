@@ -81,7 +81,7 @@ A competitive exam preparation platform designed for **SSC, Banking and Railway 
 **Tech:** React.js • Node.js • Express.js • MongoDB
 
 ---
-### 📰 [Xpress](https://arunrana07.github.io/Xpress/)
+### 📰 [Xpress](https://news-web-sooty.vercel.app/)
 
 A React-based news application that provides users with the latest news through API integration.
 
