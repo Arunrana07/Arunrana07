@@ -67,7 +67,7 @@ Building modern, responsive and user-focused web applications.
 
 ## 🚀 Featured Projects
 
-### 📚 ExamPrep
+### 📚 TestLifter
 
 A competitive exam preparation platform designed for **SSC, Banking and Railway exams**.
 
